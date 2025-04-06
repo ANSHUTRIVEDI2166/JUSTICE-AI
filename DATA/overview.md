@@ -23,15 +23,6 @@ This is the dataset used in the **Justice-AI** project, which aims to build an A
 
 ---
 
-## 📁 File Information
-
-- **Filename:** `justice_ai_dataset.csv`
-- **Total Rows:** 30+
-- **Missing Values:** None
-- **Generated:** Manually created based on real-world inspired logic
-
----
-
 ## 🚀 Use Cases
 
 This dataset can be used for:
