@@ -42,5 +42,3 @@ Justice-AI analyzes and ranks court cases by computing a **priority score**, tak
 ## 📍 Goal
 
 To assist courts, legal tech startups, and justice-related organizations in **objectively identifying** which cases deserve **immediate attention** based on transparent and logical rules.
-
---
